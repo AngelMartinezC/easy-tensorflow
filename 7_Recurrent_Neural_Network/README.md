@@ -24,6 +24,7 @@ We strongly suggest you to follow our tutorials one after the other; especially 
 
 - [Notations](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/7_Recurrent_Neural_Network/Tutorials/01_Notations.ipynb)
 - [Many to One with Fixed Sequence Length](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/7_Recurrent_Neural_Network/Tutorials/03_Many_to_One_with_Fixed_Sequence_Length.ipynb)
+- [Many to One with Variable Sequence Length](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/7_Recurrent_Neural_Network/Tutorials/04_Many_to_One%20_with_Variable_Sequence_Length.ipynb)
 - [Vanilla RNN for Digit Classification](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/7_Recurrent_Neural_Network/Tutorials/06_Vanilla_RNN_for_Classification.ipynb)
 
 - [Bidirectional RNN for Digit Classification](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/7_Recurrent_Neural_Network/Tutorials/07_Bidirectional_RNN_for_Classification.ipynb)
